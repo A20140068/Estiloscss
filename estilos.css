@@ -1,0 +1,15 @@
+td{
+    color: rgb(94, 192, 192);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+}
+a{
+    color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: right;
+}
+a:hover{
+    color:brown;
+    font-size: 30px;
+}
